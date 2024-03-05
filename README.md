@@ -15,8 +15,6 @@ sudo apt-get update
 sudo apt-get install ffmpeg
 ```
 
-Development
-This app is developed for Debian Linux systems.
 
 ## CODE AND PROJECT
 
