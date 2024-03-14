@@ -3,7 +3,7 @@
 # Change directory to where your app is located
 cd "$(dirname "$0")"
 
-# Name of your app executable
+# Name of your app under a variable
 app_executable="video_converter"
 
 # Check if the app is already executable
@@ -12,6 +12,5 @@ if [ ! -x "$app_executable" ]; then
     chmod +x "$app_executable"
 fi
 
-# Run the app
-./"$app_executable"
-
+# Remove the installer when finished
+rm "$0"
