@@ -36,6 +36,9 @@ You can follow the installation steps here:
 You can find the code with the project here 
 [SOURCE CODE](https://github.com/stefanospin7/video_converter)
 
+![Screenshot 1](./screenshots/screenshot00.png)
+![screenshot 2](./creenshots/screenshot01.png)
+![Screenshot 3](./creenshots/screenshot02.png)
 
 ## TODO
 1. Make the app standalone without the need for FFmpeg installation (potentially using the Flutter FFmpeg package).
