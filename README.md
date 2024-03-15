@@ -36,7 +36,7 @@ You can find the code with the project here
 [SOURCE CODE](https://github.com/stefanospin7/video_converter)
 
 
-### TODO
+## TODO
 1. Make the app standalone without the need for FFmpeg installation (potentially using the Flutter FFmpeg package).
 2. Fix the window resizing issue.
 3. Add support for more video file types for conversion.
