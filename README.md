@@ -5,11 +5,14 @@ This repository contains a Flutter app designed to convert WebM files into MP4 f
 ## Prerequisites
 
 ## DOWNLOAD AND USE OF THE APP
-Just download this repo
+Just download this repo, execute the install script (or just give the execution permission to the  video converter file) and enjoy your app :)
+You can follow the installation steps here:
+[Video instruction Soon](https://www.youtube.com/)
 
 ## INSTALL FFMPEG
 Before using the app, ensure that FFmpeg is installed on your system. If not, you can install it using the package manager specific to your Linux distribution:
 
+This way you can install it in Ubuntu:
 ```bash
 sudo apt-get update
 sudo apt-get install ffmpeg
