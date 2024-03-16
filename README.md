@@ -28,7 +28,7 @@ sudo apt-get install ffmpeg
 6. Now you can open the "video_converter" file and use the application.
 
 You can follow the installation steps here:
-[Video instruction Soon](https://www.youtube.com/)
+[Video instruction](https://www.youtube.com/watch?v=AXRcRFt0kOE)
 
 ## CODE AND PROJECT
 
